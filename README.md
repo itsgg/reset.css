@@ -5,7 +5,7 @@ Reset browser default css styles.
 ## Usage
 
 ```bash
-wget 
+wget https://github.com/itsgg/reset.css/raw/master/css-dist/reset.min.css
 ```
 
 ## Development
